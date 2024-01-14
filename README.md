@@ -11,8 +11,8 @@
   pip install rich
   pip install futures
   pip install requests
-  git clone https://github.com/Sabbir-787/File-Clone free
-  cd File-Clone free
+  git clone https://github.com/Sabbir-787/File-Clone-free
+  cd File-Clone-free
   git pull
   python FreeV1.py
   ```
